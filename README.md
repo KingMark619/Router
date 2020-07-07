@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Note`
 
+- Shows use of React Hooks
 - This App shows the use of React Router
 - an easy dynamic website with a quick navigation
 - display use of Router, Switch, Routes and Link
