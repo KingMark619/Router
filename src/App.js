@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
 import About from "./About";
-import Shop from "./Shop";
-import Nav from "./Nav";
-import ItemDetails from "./ItemDetails";
+import Shop from "./components/Shop";
+import Nav from "./components/Nav";
+import ItemDetails from "./components/ItemDetails";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
